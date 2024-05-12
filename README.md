@@ -1,6 +1,13 @@
 # Sentiment_Analysis
 LLM_PROJECT
 
-The news are extracted from website with automated system .
+The system employs the BERT model for sentiment analysis.
 
-The heading and content are analysis whether they are positive or negative i.e. sentiment analysis using Bert neural network
+
+• It can identify the sentiment (positive, negative, or neutral) of information.
+
+• It works with data from e-papers or other
+sources.
+
+• Sentiment analysis categorizes the information
+accordingly
